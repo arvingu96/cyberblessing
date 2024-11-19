@@ -1,0 +1,15 @@
+/* Reset body styles */
+body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    /* Center the video */
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    /* Full viewport height */
+    background-color: black;
+    /* Optional background color */
+    overflow: hidden;
+    /* Prevent scrolling */
+}
